@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gabriela Guerrero",
+      "empresa": "Softtek",
+      "email": "gabriela.guerrero@softtek.com",
+      "telefono": "449 538 00 59",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Josue Glez.",
+      "empresa": "Arkus Nexus",
+      "email": "josue.gonzalez@arkus.com",
+      "telefono": "449 324 94 30",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Alondra Guerrero",
+      "empresa": "UAA Nutricion",
+      "email": "alondra@uaa.com",
+      "telefono": "449 232 32 33",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
