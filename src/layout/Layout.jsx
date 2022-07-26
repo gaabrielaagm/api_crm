@@ -19,9 +19,9 @@ const Layout = () => {
                       Clientes
           </Link>
           <Link
-            to="/clientes/nuevo"
+            to="/nuevo"
             className={`
-                        ${urlActual === '/clientes/nuevo' ? 'text-yellow-500' : 'text-white'} 
+                        ${urlActual === '/nuevo' ? 'text-yellow-500' : 'text-white'} 
                         text-2xl block mt-2 hover:text-blue-300
                       `}>
               Nuevo cliente

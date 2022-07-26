@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Gabriela Guerrero",
+      "nombre": "Gabriela GM",
       "empresa": "Softtek",
       "email": "gabriela.guerrero@softtek.com",
       "telefono": "449 538 00 59",
@@ -23,6 +23,14 @@
       "telefono": "449 232 32 33",
       "notas": "",
       "id": 3
+    },
+    {
+      "nombre": "Anonimo",
+      "empresa": "Anonima",
+      "email": "anonimo@correo.com",
+      "telefono": "449 123 45 67",
+      "notas": "Sin notas",
+      "id": 4
     }
   ]
 }
